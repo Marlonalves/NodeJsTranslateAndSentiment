@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "google-translate-api": "^2.3.0",
     "node-google-translate-skidz": "^1.1.2",
     "sentiment": "^5.0.1",
